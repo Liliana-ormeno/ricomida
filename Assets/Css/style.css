@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.bg-gris {
+    background-color:#373A3C;
+}
+
+.blanco a {
+    color: #FFFFFF;
+    font-family: cabin;
+    font-weight: 400;
+}
+
+.logo{
+    color: #FFFFFF;
+    font-family: lobster;
+    font-weight: 400;
+    text-align: center;
+}
+
+.card-title {
+    font-family: cabin;
+    font-weight: 700;
+    color: #373A3C;
+    font-size: 23px; 
+}
+
+.card-text {
+    font-family: cabin;
+    font-weight: 400;
+    color: #373A3C;
+    font-size: 16px; 
+}
+
+.bg-rosa {
+background-color:#DC3545
+}
+
+.footer-title {
+text-align: center;
+font-family:cabin;
+font-weight: 700;
+color: #FFFFFF;
+}
+
+.footer-text {
+    text-align: center;
+    font-family: cabin;
+    font-weight: 400;
+    color: #FFFFFF;
+    font-size: 37px;
+}
+
+.container {
+    display: flex;
+}
+
+.botones {
+    color: white;
+    font-family: cabin;
+    font-weight: 400;
+}
+
+.descripcionreceta {
+    display: flex;
+}
+
+
